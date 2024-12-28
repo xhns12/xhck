@@ -1,1 +1,24 @@
-123
+{
+    "urls": [
+        {
+            "url": "http://mpanso.me/DEMO.json",
+            "name": “线路一-XM”
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": “线路二-WRX”
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": “线路三-QJ”
+        },
+        {
+            "url": “http：//www.饭太硬. com/tv/”,
+            "name": “线路四-FTY”
+        },
+        {
+            "url": “http：//我不是. You. com”,
+            "name": “线路五-MY”
+        }
+    ]
+}
