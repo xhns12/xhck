@@ -2,8 +2,8 @@
 {"url":"http://mpanso.me/DEMO.json","name":"线路一-XM"},
 {"url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name":"线路二-WRX"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"线路三-QJ"},
-{"url":"http://www.饭太硬.com/tv/","name":"WEWA（饭太硬）"},
+{"url":"http://www.饭太硬.com/tv/","name":"线路四-FTY"},
 {"url":"http://我不是.摸鱼儿.com","name":"线路五-MY"},
-{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/9918.json","name":"暂无"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"线路六-XS"},
 {"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/ok.txt","name":"ok"}
 ]}
